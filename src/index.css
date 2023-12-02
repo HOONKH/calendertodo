@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Myline {
+  text-decoration: line-through;
+  text-decoration-color: red;
+}
